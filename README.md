@@ -5,15 +5,12 @@
 </div>
 <br>
 <div style="display: inline_block;">
-<img align="center" alt="Heitor-php" height="50 width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img align="center" alt="Heitor-laravel" height="80 width="90" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg">
-  <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
- <br>
+  <br>
 
   
 </div>
