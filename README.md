@@ -1,5 +1,5 @@
 <div>
-<a href="#"> Heitor Mario </a><br>
+<a href="#" style="text-decoration-line: none;"> <h3> Heitor Mario </h3></a><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitormario&show_icons=true&theme=dracula&show_icons=true&locale=pt-br" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitormario&layout=compact&show_icons=true&theme=dracula&show_icons=true&locale=pt-br" />  
 </div>
